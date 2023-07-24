@@ -8,9 +8,9 @@ How to install
    `pip install venv` <br>
 
 2. Run these to add to `.zshrc` <br>
-   echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc <br>
-   echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc <br>
-   echo 'eval "$(pyenv init --path)"' >> ~/.zshrc <br>
+   `echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc` <br>
+   `echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc` <br>
+   `echo 'eval "$(pyenv init --path)"' >> ~/.zshrc` <br>
 
 3. Install the desired python version using `pyenv install <PYTHON_VERSION>` <br>
    ex: `pyenv install 3.7.17`
