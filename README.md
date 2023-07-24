@@ -35,6 +35,9 @@ How to install
 
 11. Run `python` to make sure its using the recently installed version
 
+Virtual Environments: <br>
+s3://ts-python-versions
+
 References: <br>
 https://www.youtube.com/watch?v=31WU0Dhw4sk&ab_channel=k0nzebuilds <br>
 https://k0nze.dev/posts/install-pyenv-venv-vscode/
